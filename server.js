@@ -9,8 +9,8 @@ const PORT = process.env.PORT || 3000;
 
 // Configuration
 const config = {
-    clientId: 'ktgncfgdmhe8hgatys9q',
-    clientSecret: 'a5c6ef919753412c905e8ea353708327',
+    clientId: '9ygysj744ynkj8meey5c',
+    clientSecret: '0bfee4b2de2345aea41ee56d8e516fbf',
     deviceId: 'bf43693c4842500a39o05g',
     baseUrl: 'https://openapi.tuyaeu.com',
     region: 'eu'
